@@ -44,9 +44,7 @@ end
 
 #### [](#header-4)Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+
 
 ##### [](#header-5)Header 5
 
